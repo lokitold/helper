@@ -18,6 +18,6 @@
             "Lokitold\\Helper\\": "app/"
         }
     },
-    "minimum-stability": "stable"
+    "minimum-stability": "dev"
 }
 

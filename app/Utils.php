@@ -1,6 +1,6 @@
 <?php 
 
-namespace Lokitold\Helper\Utils;
+namespace Lokitold\Helper;
 /**
  * Lokitold Helper utils
  * 
@@ -12,7 +12,7 @@ namespace Lokitold\Helper\Utils;
 class Utils 
 {
      
-    public function Test()
+    public function test()
     {
         return 'hello';
     }
