@@ -1,0 +1,23 @@
+{
+    "name": "lokitold/helper",
+    "description": "Helper Utils Lokitold",
+    "keywords": ["lokitold", "helper"],
+    "license": "MIT",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Victor Rojas",
+            "email": "vico.16c@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.5.9"
+    },
+    "autoload": {
+        "psr-4": {
+            "Lokitold\\Helper\\": "app/"
+        },
+    },
+    "minimum-stability": "stable"
+}
+
