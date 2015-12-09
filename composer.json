@@ -16,7 +16,7 @@
     "autoload": {
         "psr-4": {
             "Lokitold\\Helper\\": "app/"
-        },
+        }
     },
     "minimum-stability": "stable"
 }
